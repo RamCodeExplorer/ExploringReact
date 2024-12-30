@@ -1,13 +1,12 @@
 
 import './App.css';
-import PropsPassArray from './components/PropsPassArray';
-
+import PropsPassObject from './components/PropsPassObject';
 
 
 function App() {
   return (
     <div className="App">
-     <PropsPassArray />
+    <PropsPassObject />
      
     </div>
   );
